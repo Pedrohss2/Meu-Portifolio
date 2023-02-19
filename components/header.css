@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    font-family:'Fira Code';
+    justify-content: space-between;
+    background-color: #45416a;
+    border-bottom: 5px solid  #000;
+    padding: 10px 20px ;
+    text-shadow: 2px 2px 2px red;
+}
+
+.header .navegation{
+    text-shadow: 2px 2px 2px red;
+}
